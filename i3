@@ -177,4 +177,3 @@ bar {
         position top
         status_command i3status
 }
-{"mode":"full","isActive":false}
